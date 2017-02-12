@@ -9,8 +9,8 @@ You will need to install dotnet core.
 3. `dotnet run`
 
 You will now be able to open browser at localhost:5000.
-1. http://localhost:5000/swagger/ui
-2. http://localhost:5000/Values/2
+	* http://localhost:5000/swagger/ui
+	* http://localhost:5000/Values/2
 
 # Building Docker Image
 
