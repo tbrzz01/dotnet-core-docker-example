@@ -7,8 +7,7 @@ You will need to install dotnet core.
 1. `dotnet restore`
 2. `dotnet build`
 3. `dotnet run`
-
-You will now be able to open browser at localhost:5000.
+4. You will now be able to open browser at localhost:5000.
 	* http://localhost:5000/swagger/ui
 	* http://localhost:5000/Values/2
 
